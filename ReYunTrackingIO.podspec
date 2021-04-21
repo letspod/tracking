@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ReYunTrackingIO"
-  s.version      = "1.7.8.1"
+  s.version      = "1.8.4"
   s.summary      = "Official ReYun Tracking SDK for iOS"
   s.homepage         = "https://www.reyun.com"
 
